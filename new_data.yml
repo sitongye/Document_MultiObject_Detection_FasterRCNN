@@ -1,0 +1,12 @@
+TRAIN_TEST_SPLIT: 0.2
+DATA_PATH: C:\Users\yesit\PycharmProjects\fsf-signature_detection\handwriting
+IMAGE_FOLDER: "images"
+JSON_CONFIG_FOLDER: "config"
+JSON_CONFIG_FILE: "sign_annotations.json"
+OUTPUT_DATA_PATH: "./data"
+OUTPUT_TRAIN_FOLDER_NAME: "train"
+OUTPUT_TEST_FOLDER_NAME: "test"
+DETECT_CLASSES:
+  - signature
+  - date
+ANNOTATION_NAME: "2020"
