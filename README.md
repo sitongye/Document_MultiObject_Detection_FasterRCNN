@@ -2,7 +2,7 @@
 Detect handwritten Signatures and Dates on documents with FasterRCNN in Keras
 
 suggested directory structure:
-
+'''
 -data_folder ("data")
 	- train_images
 	- test_images
@@ -16,7 +16,7 @@ suggested directory structure:
 	- record_path (default: "./Model/record.csv")
 - model package
 	- results_imgs
-
+'''
 
 
 
